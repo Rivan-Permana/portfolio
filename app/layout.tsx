@@ -9,7 +9,7 @@ const description =
   "Software engineer across backend, AI/ML and data. I build the APIs, pipelines and model services behind products, and often run the team that ships them.";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://rivanpermana.vercel.app"),
+  metadataBase: new URL("https://rivan-permana.vercel.app"),
   title: "Rivan Permana · Software Engineer",
   description,
   openGraph: {
